@@ -1,0 +1,9 @@
+name: "webpage"  
+author: "Vicky Leigh"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Webpage"
