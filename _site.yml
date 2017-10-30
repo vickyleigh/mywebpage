@@ -1,4 +1,4 @@
-name: "Vicky Leigh's Webpage"  
+name: "Vicky Leigh"  
 author: "Vicky Leigh"  
 output_dir: "docs"  
 output:  
@@ -7,3 +7,6 @@ output:
     theme: flatly  
 navbar:  
   title: "Webpage"
+  right:
+    - text: Publications 
+      href: publications.html
