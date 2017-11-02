@@ -4,9 +4,13 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: readable
+    css: style.css
 navbar:  
   title: "Webpage"
-  right:
-    - text: Publications 
-      href: publications.html
+  type: inverse
+left:
+    - text: "Home"
+      href: index.Rmd
+    - text: "Research"
+      href: Research.Rmd

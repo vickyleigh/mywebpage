@@ -1,15 +1,17 @@
 ---
 title: "Webpage"
 ---
+<img src="images/profilepic.png"
+  style="width: 50%;
+         float: right;
+         padding-left: 10px;">
 
 I am a postgraduate student in the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Lisa Debruine](http://facelab.org/People/debruine)
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) working with [Lisa Debruine](http://facelab.org/People/debruine)
 
-###Research Interests
-My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project. 
+My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project. You can find out about previous projects I have worked on in my 'Research' tab. 
 
-###Background 
-I completed my undergraduate degree in Pscyhology at the University of Glasgow. My undergate degree included a project on women's perceived sexual orientation and it's association with traits viable in their faces, supervised by [Ben Jones](http://facelab.org/People/benjones).
+I tweet at [@VickyLeigh_](https://twitter.com/VickyLeigh_)
 
-I have also undertaken an Erasmus+ funded research project in the Person Perception lab and the Uniserity of Jena, supervised by Jeurgen Kaufmann. 
+
+

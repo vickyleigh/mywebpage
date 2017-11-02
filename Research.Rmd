@@ -1,0 +1,9 @@
+---
+title: "Research"
+output: html_document
+---
+My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project.  
+
+For my undegratduarte project also at the University of Glasgow I investigated  women's perceived sexual orientation and it's association with traits viable in their faces, supervised by [Ben Jones](http://facelab.org/People/benjones). 
+
+I have also undertaken an Erasmus funded research project in the Person Perception lab and the Uniserity of Jena, supervised by [Jürgen Kaufmann](http://www.allgpsy.uni-jena.de/jurgen-kaufmann/). This research looked at individual differences and their influence on facial recognition. 
