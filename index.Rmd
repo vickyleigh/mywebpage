@@ -9,7 +9,7 @@ title: "Vicky Leigh"
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) working with [Lisa Debruine](http://facelab.org/People/debruine)
 
-My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project. You can find out about previous projects I have worked on in my [Research](https://vickyleigh.github.io/mywebpage/research.html) tab. 
+My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project. You can find out about all of my projects in the [Research](https://vickyleigh.github.io/mywebpage/research.html) tab. 
 
 ####Find Me Elsewhere
 * My bio can be found on the [facelab site](http://facelab.org/People/leigh) as well as on the [University of Glasgow Psychology page](http://www.psy.gla.ac.uk/staff/?id=VL003)
