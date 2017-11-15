@@ -1,3 +1,19 @@
 body {
-  background-color: hsl(286, 7%, 68%);
+  background-color: hsl(286, 10%, 87%);
+}
+
+text {
+  color: black;
+}
+
+a:link {
+  color: hsl(290, 37%, 56%);
+}
+
+a:visited {
+  color: hsl(290, 37%, 56%);
+}
+
+a:hover {
+  color: black;
 }

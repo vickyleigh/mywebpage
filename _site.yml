@@ -4,13 +4,13 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: readable
+    theme: default
     css: style.css
 navbar:  
-  title: "Webpage"
+  title: "Vicky Leigh"
   type: inverse
 left:
     - text: "Home"
-      href: index.Rmd
+      href: index.html
     - text: "Research"
-      href: Research.Rmd
+      href: research.html

@@ -1,5 +1,5 @@
 ---
-title: "Webpage"
+title: "Vicky Leigh"
 ---
 <img src="images/profilepic.png"
   style="width: 50%;
@@ -9,9 +9,15 @@ title: "Webpage"
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/) working with [Lisa Debruine](http://facelab.org/People/debruine)
 
-My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project. You can find out about previous projects I have worked on in my 'Research' tab. 
+My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project. You can find out about previous projects I have worked on in my [Research](https://vickyleigh.github.io/mywebpage/research.html) tab. 
 
-I tweet at [@VickyLeigh_](https://twitter.com/VickyLeigh_)
+####Find Me Elsewhere
+* My bio can be found on the [facelab site](http://facelab.org/People/leigh) as well as on the [University of Glasgow Psychology page](http://www.psy.gla.ac.uk/staff/?id=VL003)
+* I tweet at @[VickyLeigh_](https://twitter.com/VickyLeigh_)
+* [GitHub](https://github.com/vickyleigh/) hosts my code (including for this webpage) is hosted 
+* [figshare](https://figshare.com/authors/Victoria_Leigh/4545205) is where my images and figures are hosted
+* [ORCID](http://orcid.org/0000-0003-3446-1828) lists my scientific publications
+
 
 
 
