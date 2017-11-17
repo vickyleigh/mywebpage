@@ -9,8 +9,8 @@ output:
 navbar:  
   title: "Vicky Leigh"
   type: inverse
-left:
+  left:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: research.html
+      href: Research.html
