@@ -2,7 +2,7 @@
 title: "Research"
 output: html_document
 ---
-My current work focuses on the influence of parental and sibling phenotype on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project.  
+My current work focuses on the influence of sexual orientation and parental imprinting on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project.
 
 For my undergraduate project also at the University of Glasgow I investigated  women's perceived sexual orientation and it's association with traits viable in their faces, supervised by [Ben Jones](http://facelab.org/People/benjones). 
 
