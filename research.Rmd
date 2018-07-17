@@ -2,7 +2,15 @@
 title: "Research"
 output: html_document
 ---
-My current work focuses on the influence of sexual orientation and parental imprinting on partner choice and is part of the  [KINSHIP](https://erc.europa.eu/) project.
+<img src="images/ebea.png"
+  style="width: 50%;
+         float: left;
+         padding-right: 10px;">
+
+
+My current work focuses on the influence of sexual orientation and parental imprinting on partner choice and is part of the ESRC funded KINSHIP project “How do humans recognise kin?”.
+
+I presented this research as a poster at the European Human Behaviour and Evolution Association (EHBEA) conference in Pécs, Hungary and at the Human Behavior and Evolution Society (HBES) conference in Amsterdam, The Netherlands. Which you can download [here](https://osf.io/x9wka/)
 
 For my undergraduate project also at the University of Glasgow I investigated  women's perceived sexual orientation and it's association with traits visible in their faces, supervised by [Ben Jones](http://facelab.org/People/benjones). 
 
