@@ -13,18 +13,16 @@ I am a postgraduate student in the University of Glasgow's
 
 My current work focuses on the influence of sexual orientation and parental imprinting on partner choice and is part of the KINSHIPproject. 
 You can find out about all of my projects in the [Research](research.html) tab. 
-<<<<<<< HEAD
 <br>
-=======
 
 
->>>>>>> c0b91c761fbab9fbfe4e2eada66ff97e8c8e2503
+
 
 ####Find Me Elsewhere
 * My bio can be found on the [facelab site](http://facelab.org/People/leigh) as well as on the [University of Glasgow Psychology page](http://www.psy.gla.ac.uk/staff/?id=VL003)
 * I tweet at @[VickyLeigh_](https://twitter.com/VickyLeigh_)
 * [GitHub](https://github.com/vickyleigh/) hosts my code (including for this webpage)
-* I will be posting my upcoming projects on the [OSF](osf.io/m3a7e)
+* I will be posting my upcoming projects on the [OSF](https://osf.io/m3a7e)
 
 
 
